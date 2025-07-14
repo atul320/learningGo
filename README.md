@@ -72,7 +72,7 @@ go run main.go
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/atul320/
+git clone https://github.com/atul320/learningGo.git
 ```
 
 2. Navigate to either project folder and follow its specific instructions.
